@@ -17,5 +17,4 @@ source ~/.bashrc
 # Config
 _ln "$(pwd)/tools/asdf/.tool-versions" "${HOME}/.tool-versions"
 
-asdf plugin add yq
 asdf install
