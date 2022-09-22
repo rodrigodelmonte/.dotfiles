@@ -28,6 +28,7 @@ sudo apt-get -y install \
 # Install tools
 bash tools/git/install.sh
 bash tools/asdf/install.sh
+bash tools/awscli/install.sh
 bash tools/code/install.sh
 bash tools/kubectl/install.sh
 
