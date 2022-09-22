@@ -1,0 +1,15 @@
+{
+    "[python]": {},
+    "breadcrumbs.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "explorer.confirmDelete": false,
+    "files.insertFinalNewline": true,
+    "git.suggestSmartCommit": false,
+    "go.useLanguageServer": true,
+    "go.buildTags": "e2e",
+    "grammarly.dialect": "british",
+    "rewrap.autoWrap.enabled": true,
+    "rewrap.wrappingColumn": 72,
+    "window.menuBarVisibility": "classic",
+    "workbench.colorTheme": "Default Light+"
+}

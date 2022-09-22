@@ -1,0 +1,13 @@
+[commit]
+	gpgsign = true
+	template = ~/.dotfiles/tools/git/template.txt
+[user]
+	email = rvdelmonte@gmail.com
+	name = Rodrigo V. Del Monte
+	# signingkey = 
+[core]
+	editor = codium --wait
+[diff]
+	noprefix = true
+[url "git@github.com:"]
+    insteadOf = https://github.com/
