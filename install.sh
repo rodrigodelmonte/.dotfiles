@@ -30,6 +30,12 @@ bash tools/git/install.sh
 bash tools/asdf/install.sh
 bash tools/awscli/install.sh
 bash tools/code/install.sh
+bash tools/docker/install.sh
+bash tools/gcloud/install.sh
+bash tools/glow/install.sh
+bash tools/go/install.sh
 bash tools/kubectl/install.sh
+bash tools/terminator/install.sh
+bash tools/terraform/install.sh
 
 sudo snap install spotify && sudo snap refresh spotify
