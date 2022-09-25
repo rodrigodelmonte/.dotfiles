@@ -35,6 +35,7 @@ bash tools/gcloud/install.sh
 bash tools/glow/install.sh
 bash tools/go/install.sh
 bash tools/kubectl/install.sh
+bash tools/ohmyzsh/install.sh
 bash tools/terminator/install.sh
 bash tools/terraform/install.sh
 
