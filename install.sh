@@ -20,6 +20,7 @@ sudo apt-get -y install \
     jq \
     python3 \
     python3-pip \
+    python-is-python3 \
     openjdk-8-jdk \
     build-essential \
     tlp tlp-rdw \
@@ -35,6 +36,7 @@ bash tools/gcloud/install.sh
 bash tools/glow/install.sh
 bash tools/go/install.sh
 bash tools/kubectl/install.sh
+bash tools/ohmyzsh/install.sh
 bash tools/terminator/install.sh
 bash tools/terraform/install.sh
 

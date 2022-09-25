@@ -4,7 +4,7 @@
 [user]
 	email = rvdelmonte@gmail.com
 	name = Rodrigo V. Del Monte
-	# signingkey = 
+	signingkey = C36B3D5EDBB40FCA
 [core]
 	editor = codium --wait
 [diff]
