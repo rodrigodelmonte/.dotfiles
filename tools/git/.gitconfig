@@ -6,7 +6,7 @@
 	name = Rodrigo V. Del Monte
 	signingkey = C36B3D5EDBB40FCA
 [core]
-	editor = codium --wait
+	editor = vim
 [diff]
 	noprefix = true
 [url "git@github.com:"]

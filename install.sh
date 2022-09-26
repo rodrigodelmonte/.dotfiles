@@ -24,7 +24,8 @@ sudo apt-get -y install \
     openjdk-8-jdk \
     build-essential \
     tlp tlp-rdw \
-    gnome-tweaks
+    gnome-tweaks \
+    vim
 
 # Install tools
 bash tools/git/install.sh
