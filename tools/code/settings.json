@@ -1,15 +1,19 @@
 {
-    "[python]": {},
-    "breadcrumbs.enabled": true,
-    "diffEditor.ignoreTrimWhitespace": true,
-    "explorer.confirmDelete": false,
-    "files.insertFinalNewline": true,
-    "git.suggestSmartCommit": false,
+    "workbench.colorTheme": "Dracula",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "json.schemas": [],
+    "aws.profile": "profile:default",
+    "go.toolsManagement.autoUpdate": true,
+    "go.docsTool": "gogetdoc",
+    "vsicons.dontShowNewVersionMessage": true,
+    "aws.telemetry": false,
+    "go.inferGopath": false,
     "go.useLanguageServer": true,
-    "go.buildTags": "e2e",
-    "grammarly.dialect": "british",
-    "rewrap.autoWrap.enabled": true,
-    "rewrap.wrappingColumn": 72,
-    "window.menuBarVisibility": "classic",
-    "workbench.colorTheme": "Default Light+"
+    "editor.suggest.showMethods": true,
+    "editor.suggest.preview": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.snippetSuggestions": "top",
+    "go.enableCodeLens": {
+        "references": true
+    }
 }
