@@ -112,6 +112,10 @@ source $ZSH/oh-my-zsh.sh
 
 source ~/.profile
 
+. $HOME/.asdf/asdf.sh
+
 alias history="history -E"
 
 source <(kubectl completion zsh)
+
+POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true

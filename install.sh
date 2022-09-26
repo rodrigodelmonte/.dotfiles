@@ -20,10 +20,12 @@ sudo apt-get -y install \
     jq \
     python3 \
     python3-pip \
+    python-is-python3 \
     openjdk-8-jdk \
     build-essential \
     tlp tlp-rdw \
-    gnome-tweaks
+    gnome-tweaks \
+    vim
 
 # Install tools
 bash tools/git/install.sh
